@@ -1,0 +1,17 @@
+.nav li{
+    display: flex ;
+    justify-content: space-around;
+    font-size: medium;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 20px;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+.img2{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
